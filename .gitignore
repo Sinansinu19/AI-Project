@@ -1,0 +1,10 @@
+# Ignore model files
+*.hdf5
+*.h5
+
+# Ignore dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
